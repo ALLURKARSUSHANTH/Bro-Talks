@@ -1,5 +1,5 @@
-Bro-Talks is a Chat-Application
-Stack used :
+## Bro-Talks is a Chat-Application
+# Stack used :
     -Socket.Io
     -Express
     -Node.js
