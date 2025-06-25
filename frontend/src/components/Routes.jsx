@@ -17,7 +17,7 @@ import Login from "./Login";
 import Home from "./Home";
 import axios from "axios";
 import NavBar from "./NavBar";
-import PasswordResetPage from "./passwordResetPage";
+import PasswordResetPage from "./PasswordResetPage";
 import Profile from "./Profile";
 import Chat from "./Chat";
 import NotificationCenter from "./NotificationCenter";
